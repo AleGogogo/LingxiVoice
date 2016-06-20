@@ -2,7 +2,7 @@ package com.example.lyw.lingxivoice;
 
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.Window;
 import android.widget.ImageButton;
